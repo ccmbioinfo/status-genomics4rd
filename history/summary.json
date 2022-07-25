@@ -4,19 +4,19 @@
     "url": "https://stager.genomics4rd.ca",
     "icon": "https://favicons.githubusercontent.com/stager.genomics4rd.ca",
     "slug": "stager-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 325,
-    "timeWeek": 231,
-    "timeMonth": 273,
-    "timeYear": 239,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 240,
+    "timeDay": 314,
+    "timeWeek": 240,
+    "timeMonth": 274,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2022-07-25": 1
+      "2022-07-25": 25
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://stager.genomics4rd.ca/api",
     "icon": "https://favicons.githubusercontent.com/stager.genomics4rd.ca",
     "slug": "stager-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 50,
-    "timeDay": 86,
-    "timeWeek": 49,
+    "timeDay": 82,
+    "timeWeek": 52,
     "timeMonth": 49,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2022-07-25": 1
+      "2022-07-25": 25
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "http://minio.genomics4rd.ca/minio/health/live",
     "icon": "https://favicons.githubusercontent.com/minio.genomics4rd.ca",
     "slug": "min-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 300,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 302,
     "timeDay": 416,
-    "timeWeek": 342,
-    "timeMonth": 307,
-    "timeYear": 300,
+    "timeWeek": 352,
+    "timeMonth": 311,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2022-07-25": 0
+      "2022-07-25": 24
     }
   }
 ]
