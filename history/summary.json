@@ -6,15 +6,15 @@
     "slug": "stager-frontend",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.25%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 240,
-    "timeDay": 288,
-    "timeWeek": 242,
+    "time": 241,
+    "timeDay": 271,
+    "timeWeek": 258,
     "timeMonth": 275,
-    "timeYear": 240,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2022-07-25": 25
     }
@@ -26,15 +26,15 @@
     "slug": "stager-backend",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 50,
-    "timeDay": 80,
-    "timeWeek": 59,
+    "time": 51,
+    "timeDay": 76,
+    "timeWeek": 65,
     "timeMonth": 50,
-    "timeYear": 50,
+    "timeYear": 51,
     "dailyMinutesDown": {
       "2022-07-25": 25
     }
@@ -46,15 +46,15 @@
     "slug": "min-io",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.32%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 303,
-    "timeDay": 412,
-    "timeWeek": 370,
-    "timeMonth": 311,
-    "timeYear": 303,
+    "time": 304,
+    "timeDay": 398,
+    "timeWeek": 396,
+    "timeMonth": 308,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2022-07-25": 24
     }
