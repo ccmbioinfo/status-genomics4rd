@@ -4,9 +4,9 @@
     "url": "https://stager.genomics4rd.ca",
     "icon": "https://favicons.githubusercontent.com/stager.genomics4rd.ca",
     "slug": "stager-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.91%",
@@ -16,6 +16,7 @@
     "timeMonth": 226,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2022-08-31": 0,
       "2022-08-25": 88,
       "2022-08-22": 33,
       "2022-07-25": 25
@@ -26,9 +27,9 @@
     "url": "https://stager.genomics4rd.ca/api",
     "icon": "https://favicons.githubusercontent.com/stager.genomics4rd.ca",
     "slug": "stager-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -38,6 +39,7 @@
     "timeMonth": 39,
     "timeYear": 48,
     "dailyMinutesDown": {
+      "2022-08-31": 0,
       "2022-07-25": 25
     }
   },
@@ -46,9 +48,9 @@
     "url": "http://minio.genomics4rd.ca/minio/health/live",
     "icon": "https://favicons.githubusercontent.com/minio.genomics4rd.ca",
     "slug": "min-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -58,6 +60,7 @@
     "timeMonth": 257,
     "timeYear": 292,
     "dailyMinutesDown": {
+      "2022-08-31": 0,
       "2022-07-25": 24
     }
   }
