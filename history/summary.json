@@ -4,7 +4,7 @@
     "url": "https://stager.genomics4rd.ca",
     "icon": "https://favicons.githubusercontent.com/stager.genomics4rd.ca",
     "slug": "stager-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 205,
     "timeYear": 228,
     "dailyMinutesDown": {
+      "2022-09-19": 0,
       "2022-08-31": 52,
       "2022-08-25": 88,
       "2022-08-22": 33,
