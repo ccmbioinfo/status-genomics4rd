@@ -1,7 +1,7 @@
 url: http://minio.genomics4rd.ca/minio/health/live
 status: up
 code: 200
-responseTime: 174
-lastUpdated: 2023-10-06T23:02:21.353Z
+responseTime: 204
+lastUpdated: 2023-10-07T23:02:11.465Z
 startTime: 2022-05-12T14:38:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
