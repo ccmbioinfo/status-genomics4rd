@@ -4,7 +4,7 @@
     "url": "https://stager.genomics4rd.ca",
     "icon": "https://icons.duckduckgo.com/ip3/stager.genomics4rd.ca.ico",
     "slug": "stager-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 160,
     "timeYear": 199,
     "dailyMinutesDown": {
+      "2024-01-29": 0,
       "2023-09-21": 22,
       "2023-06-12": 25
     }
