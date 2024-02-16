@@ -6,9 +6,9 @@
     "slug": "stager-frontend",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 201,
     "timeDay": 119,
@@ -16,7 +16,7 @@
     "timeMonth": 192,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-02-16": 21,
+      "2024-02-16": 40,
       "2024-01-29": 23,
       "2023-09-21": 22,
       "2023-06-12": 25
@@ -27,9 +27,9 @@
     "url": "https://stager.genomics4rd.ca/api",
     "icon": "https://icons.duckduckgo.com/ip3/stager.genomics4rd.ca.ico",
     "slug": "stager-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.62%",
+    "uptimeDay": "98.57%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -39,7 +39,7 @@
     "timeMonth": 79,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2024-02-16": 20,
+      "2024-02-16": 21,
       "2023-09-21": 22
     }
   },
@@ -49,10 +49,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.genomics4rd.ca.ico",
     "slug": "min-io",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptime": "99.80%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 295,
     "timeDay": 163,
@@ -60,7 +60,7 @@
     "timeMonth": 297,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-02-16": 20,
+      "2024-02-16": 39,
       "2023-09-21": 22
     }
   }
