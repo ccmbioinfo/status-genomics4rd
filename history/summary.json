@@ -4,18 +4,19 @@
     "url": "https://stager.genomics4rd.ca",
     "icon": "https://icons.duckduckgo.com/ip3/stager.genomics4rd.ca.ico",
     "slug": "stager-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 200,
+    "time": 201,
     "timeDay": 119,
     "timeWeek": 222,
     "timeMonth": 192,
     "timeYear": 196,
     "dailyMinutesDown": {
+      "2024-02-16": 1,
       "2024-01-29": 23,
       "2023-09-21": 22,
       "2023-06-12": 25
@@ -26,10 +27,10 @@
     "url": "https://stager.genomics4rd.ca/api",
     "icon": "https://icons.duckduckgo.com/ip3/stager.genomics4rd.ca.ico",
     "slug": "stager-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
@@ -38,6 +39,7 @@
     "timeMonth": 47,
     "timeYear": 46,
     "dailyMinutesDown": {
+      "2024-02-16": 1,
       "2023-09-21": 22
     }
   },
@@ -46,9 +48,9 @@
     "url": "http://minio.genomics4rd.ca/minio/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/minio.genomics4rd.ca.ico",
     "slug": "min-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,6 +60,7 @@
     "timeMonth": 297,
     "timeYear": 291,
     "dailyMinutesDown": {
+      "2024-02-16": 0,
       "2023-09-21": 22
     }
   }
